@@ -1,16 +1,20 @@
-# Simple User Registration System
+# Multilingual Registration System
 
 A Laravel-based web application that provides a user registration system. It includes features like profile image upload, WhatsApp number validation via an external API, real-time username availability check, and email notifications for new registrations. The application supports localization for English and Arabic.
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
 - [Running Tests](#running-tests)
-- [Demo](#demo)
+
+## Demo
+
+[Demo](https://github.com/user-attachments/assets/f50cf967-3464-4f9c-9199-20e3bf025021)
 
 ## Features
 
@@ -130,6 +134,3 @@ Or via the composer script:
 composer test
 ```
 Tests are configured in phpunit.xml and located in Unit and Feature.
-
-## Demo
-
